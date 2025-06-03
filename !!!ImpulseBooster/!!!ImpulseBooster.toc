@@ -1,4 +1,4 @@
-## Interface: 20400
+## Interface: 11200
 ## Title: I|cFFFF8080mpulse|rBooster
 ## Notes: Improves your UI loading time and game performance in some cases. Compatible with WoW 1.9.0 and higher.
 ## X-Category: Interface Enhancements
